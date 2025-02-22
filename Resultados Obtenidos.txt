@@ -1,0 +1,12 @@
+Resultados Obtenidos:
+
+A través de los ejercicios realizados, se logró una precisión en los resultados y un análisis detallado de cada apartado, considerando la gran cantidad de datos. 
+Utilizando las herramientas proporcionadas en clase, se realizaron diversos cálculos relacionados con la agrupación de productos por categoría, identificación de los 
+productos con el mayor total de ventas, cálculo del precio promedio de los productos vendidos, entre otros.
+
+En el segundo ejercicio, los resultados estuvieron relacionados con el clima de diversas ciudades del mundo. A partir de los promedios calculados, 
+se identificaron las temperaturas más altas y bajas, permitiendo un análisis detallado de cada uno de los requerimientos.
+
+En el tercer ejercicio, se analizaron los promedios de calificaciones de estudiantes por materia, destacando a los alumnos con los promedios más altos y bajos. 
+Esto permitió un análisis preciso de grandes cantidades de datos.
+
